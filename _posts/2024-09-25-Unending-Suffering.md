@@ -6,7 +6,7 @@ categories: [blog]
 tags: [example, blog]
 ---
 Now is a valley. One of intense emotional turmoil. 
-The dreaded new-grad qualifier plagues my being. If i can escape from this hell, my life improves by an infinite amount.
+The dreaded new-grad qualifier plagues my being. If I can escape from this hell, my life improves by an infinite amount.
 
 I've been applying to new grad roles and basically every time I do, I either get an email saying: the position has been filled which happens roughly 5% of the time, the position is no longer needed at 25%, or straight up ghosted which occurs roughly 70% of the time.
 It is easy to become despondent in times like these. 
